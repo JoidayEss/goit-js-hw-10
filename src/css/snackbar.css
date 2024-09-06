@@ -1,0 +1,74 @@
+.form-label {
+    display: flex;
+    flex-direction: column;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #2e2f42;
+}
+
+.input-choose {
+    border: 1px solid #808080;
+    border-radius: 4px;
+    width: 360px;
+    height: 40px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #2e2f42;
+    padding-left: 16px;
+    margin-left: 0;
+}
+
+legend {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #2e2f42;
+}
+
+fieldset {
+    border-radius: 4px;
+    stroke-width: 1px;
+    stroke: #808080;
+    margin-left: 0;
+    width: 353px;
+    margin-bottom: 24px;
+}
+
+input {
+    margin-top: 24px;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 8px;
+}
+
+label {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 14.5px;
+    line-height: 1.5;
+    color: #2e2f42;
+}
+
+.button-click {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    padding: 8px 110px;
+    border-radius: 8px;
+    background: #4e75ff;
+    border: none;
+    cursor: pointer;
+}
